@@ -1,21 +1,22 @@
-# Hi there 👋, I'm Sachin Mehan  
+# Sachin Mehan
 
-🎯 **Mechanical Engineering Undergrad** | 📊 **Aspiring Data Scientist** | 🤖 **ML Enthusiast**  
-
----
-
-## 🚀 About Me
-- 🔭 I’m currently working on **ML projects & web apps**  
-- 🌱 Learning **Data Science, APIs, and AI frameworks**  
-- 💬 Ask me about **Python, Machine Learning, APIs**  
-- 📫 Reach me at: [sachinmehan3@gmail.com](mailto:sachinmehan3@gmail.com)   
+**Mechanical Engineering Undergraduate**  
+**Aspiring Data Scientist & Machine Learning Enthusiast**
 
 ---
 
-## 🛠 Skills & Tools  
-**Languages:** Python, SQL 
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
-**Web Development:** Streamlit, REST API
-**Others:** Git, Web Scraping,   
+## About Me
+- Undergraduate in Mechanical Engineering with a strong interest in **Data Science** and **Machine Learning**.
+- Experienced in **Python**, **API integration**, and **data analysis**.
+- Building practical projects to strengthen my skills in applied machine learning.
+- Open to internships, collaborations, and open-source contributions.
+
+---
+
+## Skills
+- **Programming:** Python, SQL
+- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+- **Web Development:** Streamlit, Flask
+- **Tools:** Git, APIs, Web Scraping
 
 ---

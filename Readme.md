@@ -6,4 +6,4 @@
 - 🛠️ Skilled in Python libraries like NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
 - 🚀 Seeking internship opportunities in Data Analysis/Engineering roles.
 
-<!-- Connect with me on [LinkedIn]www.linkedin.com/in/sachinmehan -->
+<!-- Connect with me on [LinkedIn](www.linkedin.com/in/sachinmehan) -->

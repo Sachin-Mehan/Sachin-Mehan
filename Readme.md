@@ -1,22 +1,9 @@
-# Sachin Mehan
+### Hi, I'm Sachin Mehan 👋
 
-**Mechanical Engineering Undergraduate**  
-**Aspiring Data Scientist & Machine Learning Enthusiast**
+- 🎓 Mechanical Engineering Student (3rd Year, B.Tech)
+-  intern at IIT Roorkee.
+- 💻 Building expertise in Data Analytics: **SQL, Python, and Power BI**.
+- 🛠️ Skilled in Python libraries like NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
+- 🚀 Seeking internship opportunities in Data Analysis/Engineering roles.
 
----
-
-## About Me
-- Undergraduate in Mechanical Engineering with a strong interest in **Data Science** and **Machine Learning**.
-- Experienced in **Python**, **API integration**, and **data analysis**.
-- Building practical projects to strengthen my skills in applied machine learning.
-- Open to internships, collaborations, and open-source contributions.
-
----
-
-## Skills
-- **Programming:** Python, SQL
-- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
-- **Web Development:** Streamlit, Flask
-- **Tools:** Git, APIs, Web Scraping
-
----
+<!-- Connect with me on [LinkedIn]www.linkedin.com/in/sachinmehan -->

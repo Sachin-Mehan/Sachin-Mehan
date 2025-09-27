@@ -1,7 +1,7 @@
 ### Hi, I'm Sachin Mehan 👋
 
 - 🎓 Mechanical Engineering Student (3rd Year, B.Tech)
--  intern at IIT Roorkee.
+-  Rsearch intern at IIT Roorkee.
 - 💻 Building expertise in Data Analytics: **SQL, Python, and Power BI**.
 - 🛠️ Skilled in Python libraries like NumPy, Pandas, Matplotlib, Seaborn, and Plotly.
 - 🚀 Seeking internship opportunities in Data Analysis roles.

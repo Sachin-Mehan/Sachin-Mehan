@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Data Engineering and Flask App Development**  
 - 🎯 Seeking **internship opportunities in Data Science & Analytics roles**
 
-📫 Connect with me: [LinkedIn](https://linkedin.com/in/your-link)  
+📫 Connect with me: [LinkedIn](www.linkedin.com/in/sachinmehan)  
 🌐 Portfolio: *coming soon...*
 
 ---

@@ -6,10 +6,10 @@
 ### 💫 About Me
 - 🎓 3rd Year **Mechanical Engineering Student (B.Tech)**  
 - 🔬 **Research Intern at IIT Roorkee** focused on Data Analytics & Machine Learning  
-- 💡 Building expertise in **Python, SQL, Power BI, Excel, and Statistics**  
-- 📊 Skilled in **NumPy, Pandas, Matplotlib, Seaborn, Plotly, and Scikit-learn**  
-- 🚀 Exploring **Machine Learning, Data Visualization, and Predictive Modeling**  
-- 🌱 Currently learning **Deep Learning and Data Engineering Concepts**  
+- 💡 Building expertise in **Python, SQL, Power BI, and Data Modeling**  
+- 📊 Skilled in **NumPy, Pandas, Scikit-learn, and PyTorch**  
+- 🚀 Exploring **Deep Learning, Data Visualization, and Predictive Modeling**  
+- 🌱 Currently learning **Data Engineering and Flask App Development**  
 - 🎯 Seeking **internship opportunities in Data Science & Analytics roles**
 
 📫 Connect with me: [LinkedIn](https://linkedin.com/in/your-link)  
@@ -19,31 +19,28 @@
 
 ### ⚙️ Tech Stack
 
-#### 🧠 Languages & Libraries
+#### 🧠 Languages
 ![Python](https://skillicons.dev/icons?i=python)
-![R](https://skillicons.dev/icons?i=r)
-![C](https://skillicons.dev/icons?i=c)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
-![Matlab](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
-![SQL](https://skillicons.dev/icons?i=mysql)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### 📚 Frameworks & Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://skillicons.dev/icons?i=jupyter)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 #### 🧰 Other Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
 ---
 
@@ -60,15 +57,18 @@
 
 ---
 
+### 📂 Featured Projects
+
+| [![Bank Loan Project](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Bank-Loan-Project&theme=radical)](https://github.com/Sachin-Mehan/Bank-Loan-Project) | [![Free Mistral Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Free-Mistral-Chat-Bot&theme=radical)](https://github.com/Sachin-Mehan/Free-Mistral-Chat-Bot) |
+|---|---|
+| [![Simple Weather Web App](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Simple-Weather-Web-App&theme=radical)](https://github.com/Sachin-Mehan/Simple-Weather-Web-App) | |
+
+---
+
 ### 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sachin-Mehan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
-
----
-| [![Bank Loan Project](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Bank-Loan-Project&theme=radical)](https://github.com/Sachin-Mehan/Bank-Loan-Project) | [![Free Mistral Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Free-Mistral-Chat-Bot&theme=radical)](https://github.com/Sachin-Mehan/Free-Mistral-Chat-Bot) |
-|---|---|
-| [![Simple Weather Web App](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Simple-Weather-Web-App&theme=radical)](https://github.com/Sachin-Mehan/Simple-Weather-Web-App) | |
 
 ---
 

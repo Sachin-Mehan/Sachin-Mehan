@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Mehan</h1>
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/de5d9edf-37aa-45b9-bc4f-19e1d94b4b97" /><h1 align="center">Hi 👋, I'm Sachin Mehan</h1>
 <h3 align="center">Data Science & Analytics Enthusiast | Mechanical Engineering Student | IIT Roorkee Research Intern</h3>
 
 ---
@@ -12,7 +12,7 @@
 - 🌱 Currently learning **Data Engineering and Flask App Development**  
 - 🎯 Seeking **internship opportunities in Data Science & Analytics roles**
 
-📫 Connect with me: [LinkedIn](www.linkedin.com/in/sachinmehan) 
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sachinmehan) 
 🌐 Portfolio: *coming soon...*
 
 ---

@@ -66,5 +66,10 @@
 </p>
 
 ---
+| [![Bank Loan Project](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Bank-Loan-Project&theme=radical)](https://github.com/Sachin-Mehan/Bank-Loan-Project) | [![Free Mistral Chat Bot](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Free-Mistral-Chat-Bot&theme=radical)](https://github.com/Sachin-Mehan/Free-Mistral-Chat-Bot) |
+|---|---|
+| [![Simple Weather Web App](https://github-readme-stats.vercel.app/api/pin/?username=Sachin-Mehan&repo=Simple-Weather-Web-App&theme=radical)](https://github.com/Sachin-Mehan/Simple-Weather-Web-App) | |
+
+---
 
 <h3 align="center">✨ “Data is the new oil, but insight is the new gold.” ✨</h3>

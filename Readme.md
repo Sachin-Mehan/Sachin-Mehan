@@ -22,6 +22,9 @@
 #### 🧠 Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![Cpp](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Markdown](https://skillicons.dev/icons?i=md)
+![Matlab](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 
 #### 📚 Frameworks & Tools
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)

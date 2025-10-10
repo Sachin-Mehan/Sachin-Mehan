@@ -67,11 +67,4 @@
 
 ---
 
-### 💼 Featured Projects
-- 📊 [**Bank Loan Project**](https://github.com/Sachin-Mehan/Bank-Loan-Project): Data analysis using Python, SQL, Power BI & Excel  
-- 🤖 [**Free Mistral Chat-Bot**](https://github.com/Sachin-Mehan/Free-Mistral-Chat-Bot): AI chatbot built using Streamlit and Mistral API  
-- ☁️ [**Simple Weather Web App**](https://github.com/Sachin-Mehan/Simple-Weather-Web-App): Python-based app using OpenWeatherMap API  
-
----
-
 <h3 align="center">✨ “Data is the new oil, but insight is the new gold.” ✨</h3>

@@ -5,12 +5,10 @@
 
 ### 💫 About Me
 - 🎓 3rd Year **Mechanical Engineering Student (B.Tech)**  
-- 🔬 **Research Intern at IIT Roorkee** focused on Data Analytics & Machine Learning  
 - 💡 Building expertise in **Python, SQL, Power BI, and Data Modeling**  
 - 📊 Skilled in **NumPy, Pandas, Scikit-learn, and PyTorch**  
 - 🚀 Exploring **Deep Learning, Data Visualization, and Predictive Modeling**  
-- 🌱 Currently learning **Data Engineering and Flask App Development**  
-- 🎯 Seeking **internship opportunities in Data Science & Analytics roles**
+- 🌱 Currently learning **Data Analysis and Statistics**  
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sachinmehan) 
 🌐 Portfolio: *coming soon...*
